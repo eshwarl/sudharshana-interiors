@@ -51,7 +51,7 @@ const Contact = () => {
               <FaPhoneAlt className="text-[#D4AF37] text-2xl" />
               <div>
                 <h3 className="font-semibold text-xl">Phone</h3>
-                <p className="text-gray-400">+919000991700, +918374757141</p>
+                <p className="text-gray-400">+919000991744, +918374757141</p>
               </div>
             </div>
 
@@ -76,8 +76,8 @@ const Contact = () => {
             </div>
 
             <a
-              href="https://wa.me/919000991700"
-              href="https://wa.me/918374757141"
+              href="https://wa.me/919000991744"
+              // href="https://wa.me/919000991744"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-3 bg-[#25D366] text-white px-6 py-4 rounded-xl font-semibold hover:scale-105 duration-300"
